@@ -1,0 +1,3 @@
+[submodule "nseit-cpp-base"]
+	path = nseit-cpp-base
+	url = git@github.com:froyg/nseit-cpp-base.git
